@@ -1,0 +1,14 @@
+{
+  "name": "city-json-data-fetch",
+  "version": "1.0.0",
+  "description": "Node.js app for displaying city data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
